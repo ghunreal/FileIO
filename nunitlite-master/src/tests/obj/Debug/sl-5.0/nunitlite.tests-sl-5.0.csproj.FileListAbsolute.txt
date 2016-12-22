@@ -1,0 +1,11 @@
+F:\c#_test\nunitlite-master\bin\Debug\sl-5.0\nunitlite.tests.dll
+F:\c#_test\nunitlite-master\bin\Debug\sl-5.0\nunitlite.tests.pdb
+F:\c#_test\nunitlite-master\bin\Debug\sl-5.0\AppManifest.xaml
+F:\c#_test\nunitlite-master\bin\Debug\sl-5.0\nunitlite.tests-sl-5.0.xap
+F:\c#_test\nunitlite-master\bin\Debug\sl-5.0\TestPage.html
+F:\c#_test\nunitlite-master\src\tests\obj\Debug\sl-5.0\nunitlite.tests-sl-5.0.csprojResolveAssemblyReference.cache
+F:\c#_test\nunitlite-master\src\tests\obj\Debug\sl-5.0\App.g.cs
+F:\c#_test\nunitlite-master\src\tests\obj\Debug\sl-5.0\nunitlite.tests.g.resources
+F:\c#_test\nunitlite-master\src\tests\obj\Debug\sl-5.0\nunitlite.tests.dll
+F:\c#_test\nunitlite-master\src\tests\obj\Debug\sl-5.0\nunitlite.tests.pdb
+F:\c#_test\nunitlite-master\src\tests\obj\Debug\sl-5.0\XapCacheFile.xml

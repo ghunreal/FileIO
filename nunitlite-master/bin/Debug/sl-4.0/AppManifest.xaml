@@ -1,0 +1,23 @@
+﻿<Deployment xmlns="http://schemas.microsoft.com/client/2007/deployment" xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml" EntryPointAssembly="nunitlite.tests" EntryPointType="NUnitLite.Tests.App" RuntimeVersion="5.0.61118.0">
+  <Deployment.OutOfBrowserSettings>
+    <OutOfBrowserSettings ShortName="nunitlite.tests" EnableGPUAcceleration="False" ShowInstallMenuItem="True">
+      <OutOfBrowserSettings.Blurb>Runs the nunitlite tests</OutOfBrowserSettings.Blurb>
+      <OutOfBrowserSettings.WindowSettings>
+        <WindowSettings Title="nunitlite.tests" />
+      </OutOfBrowserSettings.WindowSettings>
+      <OutOfBrowserSettings.SecuritySettings>
+        <SecuritySettings ElevatedPermissions="Required" />
+      </OutOfBrowserSettings.SecuritySettings>
+      <OutOfBrowserSettings.Icons />
+    </OutOfBrowserSettings>
+  </Deployment.OutOfBrowserSettings>
+  <Deployment.Parts>
+    <AssemblyPart x:Name="nunitlite.tests" Source="nunitlite.tests.dll" />
+    <AssemblyPart x:Name="mock-assembly" Source="mock-assembly.dll" />
+    <AssemblyPart x:Name="nunitlite" Source="nunitlite.dll" />
+    <AssemblyPart x:Name="nunitlite.testdata" Source="nunitlite.testdata.dll" />
+    <AssemblyPart x:Name="System.Windows.Browser" Source="System.Windows.Browser.dll" />
+    <AssemblyPart x:Name="System.Windows" Source="System.Windows.dll" />
+    <AssemblyPart x:Name="System.Xml" Source="System.Xml.dll" />
+  </Deployment.Parts>
+</Deployment>

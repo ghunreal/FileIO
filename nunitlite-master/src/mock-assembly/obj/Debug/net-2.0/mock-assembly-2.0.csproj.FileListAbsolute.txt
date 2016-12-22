@@ -1,0 +1,5 @@
+F:\c#_test\nunitlite-master\bin\Debug\net-2.0\mock-assembly.dll
+F:\c#_test\nunitlite-master\bin\Debug\net-2.0\mock-assembly.pdb
+F:\c#_test\nunitlite-master\src\mock-assembly\obj\Debug\net-2.0\mock-assembly-2.0.csprojResolveAssemblyReference.cache
+F:\c#_test\nunitlite-master\src\mock-assembly\obj\Debug\net-2.0\mock-assembly.dll
+F:\c#_test\nunitlite-master\src\mock-assembly\obj\Debug\net-2.0\mock-assembly.pdb

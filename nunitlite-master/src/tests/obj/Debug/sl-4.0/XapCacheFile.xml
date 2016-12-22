@@ -1,0 +1,10 @@
+﻿<xapCache source="F:\c#_test\nunitlite-master\src\tests\..\..\bin\Debug\sl-4.0\nunitlite.tests-sl-4.0.xap" wasSigned="False" certificateThumbprint="" TimeStampUrl="" lastWriteTime="2016/12/22 14:31:11">
+  <file source="F:\c#_test\nunitlite-master\src\tests\obj\Debug\sl-4.0\nunitlite.tests.dll" archivePath="nunitlite.tests.dll" lastWriteTime="2016/12/22 14:31:10" />
+  <file source="F:\c#_test\nunitlite-master\bin\Debug\sl-4.0\mock-assembly.dll" archivePath="mock-assembly.dll" lastWriteTime="2016/12/22 14:31:09" />
+  <file source="F:\c#_test\nunitlite-master\bin\Debug\sl-4.0\nunitlite.dll" archivePath="nunitlite.dll" lastWriteTime="2016/12/22 14:31:07" />
+  <file source="F:\c#_test\nunitlite-master\bin\Debug\sl-4.0\nunitlite.testdata.dll" archivePath="nunitlite.testdata.dll" lastWriteTime="2016/12/22 14:31:09" />
+  <file source="C:\Program Files (x86)\Reference Assemblies\Microsoft\Framework\Silverlight\v5.0\System.Windows.Browser.dll" archivePath="System.Windows.Browser.dll" lastWriteTime="2011/11/17 23:52:22" />
+  <file source="C:\Program Files (x86)\Reference Assemblies\Microsoft\Framework\Silverlight\v5.0\System.Windows.dll" archivePath="System.Windows.dll" lastWriteTime="2011/11/17 23:52:22" />
+  <file source="C:\Program Files (x86)\Reference Assemblies\Microsoft\Framework\Silverlight\v5.0\System.Xml.dll" archivePath="System.Xml.dll" lastWriteTime="2011/11/17 23:52:22" />
+  <file source="F:\c#_test\nunitlite-master\bin\Debug\sl-4.0\AppManifest.xaml" archivePath="AppManifest.xaml" lastWriteTime="2016/12/22 14:31:10" />
+</xapCache>

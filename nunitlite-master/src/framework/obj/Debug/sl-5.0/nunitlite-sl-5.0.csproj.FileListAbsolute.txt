@@ -1,0 +1,7 @@
+F:\c#_test\nunitlite-master\bin\Debug\sl-5.0\nunitlite.xml
+F:\c#_test\nunitlite-master\bin\Debug\sl-5.0\nunitlite.dll
+F:\c#_test\nunitlite-master\bin\Debug\sl-5.0\nunitlite.pdb
+F:\c#_test\nunitlite-master\src\framework\obj\Debug\sl-5.0\Runner\Silverlight\TestPage.g.cs
+F:\c#_test\nunitlite-master\src\framework\obj\Debug\sl-5.0\nunitlite.g.resources
+F:\c#_test\nunitlite-master\src\framework\obj\Debug\sl-5.0\nunitlite.dll
+F:\c#_test\nunitlite-master\src\framework\obj\Debug\sl-5.0\nunitlite.pdb

@@ -1,0 +1,8 @@
+F:\c#_test\nunitlite-master\bin\Debug\sl-4.0\nunitlite.xml
+F:\c#_test\nunitlite-master\bin\Debug\sl-4.0\nunitlite.dll
+F:\c#_test\nunitlite-master\bin\Debug\sl-4.0\nunitlite.pdb
+F:\c#_test\nunitlite-master\src\framework\obj\Debug\sl-4.0\nunitlite-sl-4.0.csprojResolveAssemblyReference.cache
+F:\c#_test\nunitlite-master\src\framework\obj\Debug\sl-4.0\Runner\Silverlight\TestPage.g.cs
+F:\c#_test\nunitlite-master\src\framework\obj\Debug\sl-4.0\nunitlite.g.resources
+F:\c#_test\nunitlite-master\src\framework\obj\Debug\sl-4.0\nunitlite.dll
+F:\c#_test\nunitlite-master\src\framework\obj\Debug\sl-4.0\nunitlite.pdb

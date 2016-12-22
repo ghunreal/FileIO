@@ -1,0 +1,88 @@
+<?xml version="1.0" encoding="utf-16" standalone="no"?>
+<!--This file represents the results of running a test suite-->
+<test-results name="NUnit.Tests.Assemblies.MockTestFixture" total="10" errors="1" failures="1" not-run="3" inconclusive="1" ignored="1" skipped="0" invalid="2" date="2016-12-22" time="14:31:31">
+  <environment nunit-version="1.0.0.0" clr-version="2.0.50727.5485" os-version="Microsoft Windows NT 6.1.7601 Service Pack 1" platform="Win32NT" cwd="F:\c#_test\nunitlite-master\bin\Debug\net-2.0" machine-name="GUOHUI" user="hui.guo" user-domain="MOKUN" />
+  <culture-info current-culture="zh-CN" current-uiculture="zh-CN" />
+  <test-suite type="TestFixture" name="MockTestFixture" description="Fake Test Fixture" executed="True" result="Failure" success="False" time="0.069" asserts="0">
+    <categories>
+      <category name="FixtureCategory" />
+    </categories>
+    <properties>
+      <property name="Description" value="Fake Test Fixture" />
+    </properties>
+    <failure>
+      <message><![CDATA[One or more child tests had errors]]></message>
+      <stack-trace />
+    </failure>
+    <results>
+      <test-case name="MockTest1" description="Mock Test #1" executed="True" result="Success" success="True" time="0" asserts="0">
+        <properties>
+          <property name="Description" value="Mock Test #1" />
+        </properties>
+      </test-case>
+      <test-case name="MockTest2" description="This is a really, really, really, really, really, really, really, really, really, really, really, really, really, really, really, really, really, really, really, really, really, really, really, really, really long description" executed="True" result="Success" success="True" time="0" asserts="0">
+        <categories>
+          <category name="MockCategory" />
+        </categories>
+        <properties>
+          <property name="Severity" value="Critical" />
+          <property name="Description" value="This is a really, really, really, really, really, really, really, really, really, really, really, really, really, really, really, really, really, really, really, really, really, really, really, really, really long description" />
+        </properties>
+      </test-case>
+      <test-case name="MockTest3" executed="True" result="Success" success="True" time="0.018" asserts="0">
+        <categories>
+          <category name="AnotherCategory" />
+          <category name="MockCategory" />
+        </categories>
+      </test-case>
+      <test-case name="MockTest5" executed="False" result="NotRunnable">
+        <properties>
+          <property name="_SKIPREASON" value="Method is not public" />
+        </properties>
+        <reason>
+          <message><![CDATA[Method is not public]]></message>
+        </reason>
+      </test-case>
+      <test-case name="FailingTest" executed="True" result="Failure" success="False" time="0.017" asserts="0">
+        <failure>
+          <message><![CDATA[Intentional failure]]></message>
+          <stack-trace><![CDATA[   在 NUnit.Tests.Assemblies.MockTestFixture.FailingTest() 位置 f:\c#_test\nunitlite-master\src\mock-assembly\MockAssembly.cs:行号 124
+]]></stack-trace>
+        </failure>
+      </test-case>
+      <test-case name="TestWithManyProperties" executed="True" result="Success" success="True" time="0" asserts="0">
+        <properties>
+          <property name="TargetMethod" value="SomeClassName" />
+          <property name="Size" value="5" />
+        </properties>
+      </test-case>
+      <test-case name="MockTest4" executed="False" result="Ignored">
+        <categories>
+          <category name="Foo" />
+        </categories>
+        <properties>
+          <property name="_SKIPREASON" value="ignoring this test method for now" />
+        </properties>
+        <reason>
+          <message><![CDATA[ignoring this test method for now]]></message>
+        </reason>
+      </test-case>
+      <test-case name="NotRunnableTest" executed="False" result="NotRunnable">
+        <properties>
+          <property name="_SKIPREASON" value="No arguments were provided" />
+        </properties>
+        <reason>
+          <message><![CDATA[No arguments were provided]]></message>
+        </reason>
+      </test-case>
+      <test-case name="InconclusiveTest" executed="True" result="Inconclusive" success="False" time="0.017" asserts="0" />
+      <test-case name="TestWithException" executed="True" result="Error" success="False" time="0.017" asserts="0">
+        <failure>
+          <message><![CDATA[System.Exception : Intentional Exception]]></message>
+          <stack-trace><![CDATA[   在 NUnit.Tests.Assemblies.MockTestFixture.MethodThrowsException() 位置 f:\c#_test\nunitlite-master\src\mock-assembly\MockAssembly.cs:行号 161
+   在 NUnit.Tests.Assemblies.MockTestFixture.TestWithException() 位置 f:\c#_test\nunitlite-master\src\mock-assembly\MockAssembly.cs:行号 156]]></stack-trace>
+        </failure>
+      </test-case>
+    </results>
+  </test-suite>
+</test-results>

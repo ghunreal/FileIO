@@ -1,0 +1,5 @@
+F:\c#_test\nunitlite-master\bin\Debug\sl-4.0\nunitlite.testdata.dll
+F:\c#_test\nunitlite-master\bin\Debug\sl-4.0\nunitlite.testdata.pdb
+F:\c#_test\nunitlite-master\src\testdata\obj\Debug\sl-4.0\nunitlite.testdata-sl-4.0.csprojResolveAssemblyReference.cache
+F:\c#_test\nunitlite-master\src\testdata\obj\Debug\sl-4.0\nunitlite.testdata.dll
+F:\c#_test\nunitlite-master\src\testdata\obj\Debug\sl-4.0\nunitlite.testdata.pdb
